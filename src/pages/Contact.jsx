@@ -64,7 +64,7 @@ const Contact = () => {
                       padding: "7px 25px",
                       borderRadius: "5px",
                       marginTop: "20px",
-                      background: "blue",
+                      background: "#5142fc",
                       color: "white",
                       cursor: "pointer",
                     }}

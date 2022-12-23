@@ -79,6 +79,11 @@ const Create = () => {
                       className="w-100"
                     ></textarea>
                   </div>
+                  <div className="form__create">
+                    <button className="create__btn">
+                      Create
+                    </button>
+                  </div>
                 </form>
               </div>
             </Col>

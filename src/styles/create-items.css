@@ -30,6 +30,19 @@
     border-image: linear-gradient(45deg, purple, orange) 1;
 }
 
+.form__create{
+    display: grid;
+    place-content: center;
+    padding: 5px;
+}
+
+.create__btn{
+    border: none;
+    background: #5142fc;
+    color: white;
+    cursor: pointer;
+}
+
 ::-webkit-calendar-picker-indicator {
     filter: invert(1);
     cursor: pointer;
